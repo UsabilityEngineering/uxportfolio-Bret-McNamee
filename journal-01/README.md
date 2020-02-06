@@ -1,2 +1,2 @@
-# Journal Enrty 1
+# Journal Entry 1
 
