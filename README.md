@@ -12,3 +12,4 @@ I am a Computer Science major, and am taking this class because the job that I w
 ## UX Journal
 [Journal 1](journal-01/README.md)
 [Journal 2](journal-02/README.md)
+[Journal 3](journal-03/README.md)
